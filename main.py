@@ -27,7 +27,7 @@ from tensorflow.keras import regularizers
 import warnings
 warnings.filterwarnings("ignore")
 
-print ('modules loaded')
+print ('modules load')
 train_dir = 'A:\\old workspace\\sem 5\\Machine Learning\\ML project\\Untitled Folder\\train'
 filepaths = []
 labels = []
